@@ -1,0 +1,2 @@
+# Fuel-Monitoring-System
+Built a system to create a communication path between the vehicle, the owner and another independent GSM node which can act as the supplier of the fuel using different modules like Bluetooth module, a GSM module, Subscriber Identity Module and arduino were used in this project along with other minor components. This project can prove to be an significant step for better fuel management and to simply prevent fuel theft.
